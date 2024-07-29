@@ -1,11 +1,11 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Tommy Shelby | Portafolio",
+    "description": "Soy Tommy Shelby, un estratega implacable y lider de los Peaky Blinders, forjado por las trincheras de la guerra y las calles de Birmingham, donde el control y la astucia son la clave de mi poder.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Tommy Shelby",
+    "skill": "Lider de los Peaky Fookin' Blinders",
+    "location": "Birmingham & everywhere else!",
     "media": {
         "email": "neo@metacortex.com",
         "cv": "/data/cv.pdf",
