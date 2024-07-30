@@ -1,38 +1,38 @@
 {
-    "title": "Tommy Shelby | Portafolio",
-    "description": "Soy Tommy Shelby, un estratega implacable y lider de los Peaky Blinders, forjado por las trincheras de la guerra y las calles de Birmingham, donde el control y la astucia son la clave de mi poder.",
+    "title": "David Collados | Portafolio",
+    "description": "Soy David Collados, un estudiante de Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma y este es mi portfolio web",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Tommy Shelby",
-    "skill": "Lider de los Peaky Fookin' Blinders",
-    "location": "Birmingham & everywhere else!",
+    "name": "David Collados",
+    "skill": "Estudiante de CFGS DAM",
+    "location": "Asturias",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "davidcollados@randommail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/Deviitt11",
+        "likedin": "https://linkedin.com/in/david-collados-blanco-873967246"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy estudiante de Desarrollo de Aplicaciones Multiplataforma, apasionado por crear soluciones innovadoras y eficientes para un mundo conectado.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-java-plain",
+            "name": "Java"
         },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-sqldeveloper-plain",
+            "name": "SQL"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
         }
     ],
     "experience": [
@@ -50,7 +50,7 @@
             "description": "Me encargo de salvar el mundo.",
             "date": "1999 - Actualidad"
         }
-    ],
+    ], 
     "projects": [
         {
             "icon": "bar-chart-4",
@@ -90,18 +90,26 @@
     "training": [
         {
             "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
+            "title": "Bachillerato Internacional",
+            "subtitle": "Programa del Diploma",
+            "description": "Colegio San Fernando de Avilés",
+            "date": "2017-2020",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        },
+        {
+            "icon": "laptop",
+            "title": "Grado en Ingeniería Informática en Tecnologías de la Información",
+            "subtitle": "Escuela Politécnica de Ingeniería de Gijón",
+            "description": "Aprendí más cosas.",
+            "date": "2020-2023",
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
+            "title": "Técnico Superior Desarrollo Aplicaciones Multiplataforma",
+            "subtitle": "TuniverS Formación",
             "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
+            "date": "2023-2025",
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         }
     ],
